@@ -1,0 +1,35 @@
+{
+  "name": "bytic/linkedin-ads",
+  "type": "library",
+  "description": "LinkedIn Insight Tag interaction library",
+  "keywords": [
+    "linkedin",
+    "insight-tag"
+  ],
+  "homepage": "https://github.com/bytic/services-linkedin-ads",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gabriel Solomon",
+      "email": "hello@gabrielsolomon.ro"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ByTIC\\LinkedIn\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "ByTIC\\LinkedIn\\Tests\\": "tests/src",
+      "ByTIC\\LinkedIn\\Tests\\Fixtures\\": "tests/fixtures"
+    }
+  },
+  "require": {
+    "php": "^7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.2|^8.0|^9.0",
+    "mockery/mockery": "^1.0"
+  }
+}

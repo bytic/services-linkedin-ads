@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":293:{a:2:{s:7:"defects";a:1:{s:69:"ByTIC\LinkedIn\Tests\InsightTag\CanRenderTraitTest::test_setPartnerId";i:3;}s:5:"times";a:2:{s:67:"ByTIC\LinkedIn\Tests\InsightTag\HasPartnerIdTest::test_setPartnerId";d:0.001;s:69:"ByTIC\LinkedIn\Tests\InsightTag\CanRenderTraitTest::test_setPartnerId";d:0.021;}}}
